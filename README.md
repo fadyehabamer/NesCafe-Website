@@ -1,2 +1,5 @@
 # Nescafe website
-Using Html5 / css3 / Wow.js
+#### Using
+- Html5 
+- css3 
+- Wow.js
